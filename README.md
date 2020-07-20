@@ -27,3 +27,6 @@ Click on Projects then Roadmap or just [click here](https://github.com/beaverbui
 
 ### Please do not
 Add any other labels, milestones or add any issues to the Projects.  That will be done by BB staff as appropriate.
+
+### If you come here and the Issues section does not exist
+That means that we've closed that down temporarily to manage and it will open back up again when we've done our maintenance.

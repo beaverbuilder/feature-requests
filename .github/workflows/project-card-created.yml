@@ -1,6 +1,6 @@
 on:
   project_card:
-    types: [created]
+    types: [created, moved]
 name: Project Card Event
 jobs:
   triage:

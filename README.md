@@ -25,11 +25,7 @@ https://share.getcloudapp.com/eDu14qwb
 
 Click on Projects then Roadmap or just [click here](https://github.com/beaverbuilder/feature-requests/projects/1).  There you can see what feature requests we are considering, what we've already started or are testing and what was recently pushed live.
 
-### Please do not
-Add any other labels, milestones or add any issues to the Projects.  That will be done by BB staff as appropriate.
-
-
-### If you come here and the Issues section does not exist
+### If you come here and the Issues section does not exist or you are unable to post a new feature request
 That means that we've closed that down temporarily to manage and it will open back up again when we've done our maintenance.
 
 # One caveat

@@ -1,18 +1,27 @@
 # Welcome to the Beaver Builder Feature Requests and Roadmap board.  
-This is here as a result of customer feedback that you all would like a place to post and vote
-on feature requests as well see what we're working on.
 
-This is an experiment and we may decide that this won't work in the long run but we'd like to see if it can!
+The board was created as a result of customer requests for a place to post and vote
+on feature requests as well see what the Beaver Builder development team is working on.
 
-## How to Use
+This is an experiment that might not work out in the long run but we'd like to see if it can!
 
-### Post Feature Requests
-Review existing feature requests and if yours isn't listed, post it in [Issues](https://github.com/beaverbuilder/feature-requests/issues).  Make sure to select the right product so that it gets labeled appropriately.
+## View, post, or vote on a feature request
 
-### Vote on Feature Requests
-When you open a feature request (issue) you will see a smiley face.  Please click that and select the Thumbs Up icon for a +1.  This will ensure your vote is counted and then we can filter the results by the number of Thumbs Ups as well.  Please note, Thumbs up will be the only accepted way to vote (if we could remove the other options, we would).  Comments and other icon clicks will not be counted towards the vote total.  
+### View existing feature requests
 
-If you don't think a feature is a good idea, please click on the Thumbs Down icon instead.
+Feature requests are stored in GitHub as issues and can be accessed in [the Issues section](https://github.com/beaverbuilder/feature-requests/issues).
+
+If the **Issues** section does not exist at this location or you're unable to post a new feature request, it means that we've closed it down temporarily to manage. It will become available when maintenance is finished, so check back later.
+
+### Post a feature request
+If you've viewed the list of feature requests and yours isn't listed, post it in [Issues](https://github.com/beaverbuilder/feature-requests/issues).  Make sure to select the right product so  it gets labeled appropriately.
+
+### Vote feature requests up or down
+When you open a feature request (issue), you'll see a smiley face.  If you want to vote in favor of that feature, click that icon and select the **Thumbs Up** icon.  This ensures your vote is counted and allow us to filter the results by the number of Thumbs Up votes.  
+
+**Note:** **Thumbs Up** is the only accepted way to vote, even though other options appear. (If we could remove them, we would.)  Comments and other icon clicks will not be counted towards the vote total.  
+
+If you don't think the feature is a good idea, click the **Thumbs Down** icon instead.
 
 Example of how to vote on an issue:
 
@@ -20,13 +29,9 @@ Example of how to vote on an issue:
 
 https://share.getcloudapp.com/eDu14qwb
 
+**One caveat:** Just because a feature request is really popular doesn't mean it will get added.  While customer feedback is really important to us, there are other factors we include in feature decisions.
 
-### See the Roadmap
+## View the Roadmap
 
-Click on Projects then Roadmap or just [click here](https://github.com/beaverbuilder/feature-requests/projects/1).  There you can see what feature requests we are considering, what we've already started or are testing and what was recently pushed live.
+Click **Projects > Roadmap** or just [click here](https://github.com/beaverbuilder/feature-requests/projects/1). You can see what feature requests we are considering, what we've already started or are testing, and what was recently pushed live.
 
-### If you come here and the Issues section does not exist or you are unable to post a new feature request
-That means that we've closed that down temporarily to manage and it will open back up again when we've done our maintenance.
-
-# One caveat
-Just because a feature request is really popular does not mean it will get added.  While customer feedback is really important to us, there are other factors we include in feature decisions.

@@ -16,8 +16,6 @@ If the **Issues** section does not exist at this location or you're unable to po
 ### Post a feature request
 If you've viewed the list of feature requests and yours isn't listed, post it in [Issues](https://github.com/beaverbuilder/feature-requests/issues).  Make sure to select the right product so  it gets labeled appropriately.
 
-**Note** We may edit Issue titles or content for organization or clarity purposes.
-
 ### Vote feature requests up or down
 When you open a feature request (issue), you'll see a smiley face.  If you want to vote in favor of that feature, click that icon and select the **Thumbs Up** icon.  This ensures your vote is counted and allow us to filter the results by the number of Thumbs Up votes.  
 

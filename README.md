@@ -29,7 +29,9 @@ Example of how to vote on an issue:
 
 https://share.getcloudapp.com/eDu14qwb
 
-**One caveat:** Just because a feature request is really popular doesn't mean it will get added.  While customer feedback is really important to us, there are other factors we include in feature decisions.
+**Caveats:** 
+* We may edit or consolidate issues to keep them tidy and organized and to improve clarity, all to help us make decisions about which issues to implement.
+* Just because a feature request is really popular doesn't mean it will get added.  While customer feedback is really important to us, there are other factors we include in feature decisions.
 
 ## View the Roadmap
 

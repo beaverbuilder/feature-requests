@@ -35,5 +35,5 @@ https://share.getcloudapp.com/eDu14qwb
 
 ## View the Roadmap
 
-Click **Projects > Roadmap** or just [click here]([https://github.com/beaverbuilder/feature-requests/projects/1](https://github.com/orgs/beaverbuilder/projects/12). You can see what feature requests we are considering, what we've already started or are testing, and what was recently pushed live.
+Click **Projects > BB Product Feature Requests Roadmap** or just [click here]([https://github.com/beaverbuilder/feature-requests/projects/1](https://github.com/orgs/beaverbuilder/projects/12]). You can see what feature requests we are considering, what we've already started or are testing, and what was recently pushed live.
 
